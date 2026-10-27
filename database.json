@@ -1,0 +1,30 @@
+{
+  "docentes": {
+    "admin_luisa": {
+      "name": "Luisa Arango",
+      "subject": "General",
+      "pass": "1234"
+    }
+  },
+  "estudiantes": {
+    "estudiante_ejemplo": {
+      "name": "Estudiante Prueba",
+      "group": "Grupo A",
+      "pass": "1234"
+    }
+  },
+  "grupos": {
+    "grupo_a": "Grupo A"
+  },
+  "examenes": {},
+  "resultados": {},
+  "configuracionDocente": {
+    "admin_luisa": {
+      "name": "Luisa Arango",
+      "subject": "General",
+      "pass": "1234",
+      "bio": "Administradora del sistema",
+      "avatar": ""
+    }
+  }
+}
